@@ -7,7 +7,7 @@
   "targets": {
     ".NETCoreApp,Version=v2.0": {},
     ".NETCoreApp,Version=v2.0/linux-x64": {
-      "Pacman/4.4.3": {
+      "Pacman/4.5": {
         "dependencies": {
           "Discord.Addons.EmojiTools": "2.0.2",
           "Discord.Net": "2.0.1",
@@ -2610,7 +2610,7 @@
     }
   },
   "libraries": {
-    "Pacman/4.4.3": {
+    "Pacman/4.5": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
